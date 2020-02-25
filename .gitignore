@@ -90,3 +90,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 GitKraken/.DS_Store
+
+.DS_Store
