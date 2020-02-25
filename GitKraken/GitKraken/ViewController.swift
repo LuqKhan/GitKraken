@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     }
     
     // MARK: Feature 3
-    funcFeature3() {
+    funcature3() {
     
     }
 
